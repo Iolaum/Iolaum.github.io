@@ -58,6 +58,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  matrix: @username:matrixserver.tld
+#  mastodon: instance.url/@username
 
 # --- General options --- #
 
